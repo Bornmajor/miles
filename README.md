@@ -1,5 +1,5 @@
 # Miles Concept Store App
-
+This PHP-based eCommerce platform is dedicated to offering a curated selection of handmade shoes and wallets. The store combines craftsmanship with modern technology to provide a seamless shopping experience for customers who appreciate quality and uniqueness
 ### Screenshots
 <img width="947" alt="firefox_1I8vJxZTM3" src="https://github.com/Bornmajor/miles/assets/98744068/31f46bdd-647b-44c7-b940-8b64c9332953">
 <img width="947" alt="firefox_X0615zK8ef" src="https://github.com/Bornmajor/miles/assets/98744068/2cbfbd93-d508-4c90-94cd-f45512837204">
